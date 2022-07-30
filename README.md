@@ -36,3 +36,51 @@ If you aren't already familiar, it may be a good idea to go through the [Introdu
 ---
 
 **Please navigate to the open issue in this repository to get started!**
+
+<hr/>
+
+## GitHub Actions: Write Docker container actions
+
+Step 1: [Setup a workflow file](https://github.com/Zi-Tao/write-docker-actions/issues/1)
+
+Step 2: [Edit the current workflow](https://github.com/Zi-Tao/write-docker-actions/pull/2)
+
+Step 3: [Add an action reference to the workflow](https://github.com/Zi-Tao/write-docker-actions/pull/2)
+
+Step 4: [Create the action metadata](https://github.com/Zi-Tao/write-docker-actions/issues/3)
+
+Step 5: [Write the Hello World source code](https://github.com/Zi-Tao/write-docker-actions/pull/4)
+
+Step 6: [Create the action's `Dockerfile`](https://github.com/Zi-Tao/write-docker-actions/pull/4)
+
+Step 7: [Add input parameters to Hello World's metadata](https://github.com/Zi-Tao/write-docker-actions/pull/4)
+
+Step 8: [Use input parameters in the source code](https://github.com/Zi-Tao/write-docker-actions/pull/4)
+
+Step 9: [Use input parameters in the workflow](https://github.com/Zi-Tao/write-docker-actions/pull/4)
+
+Step 10: [Explore your input parameters](https://github.com/Zi-Tao/write-docker-actions/pull/4)
+
+Step 11: [Setting up the next action](https://github.com/Zi-Tao/write-docker-actions/issues/5)
+
+Step 12: [Add metadata to the cat-fats action](https://github.com/Zi-Tao/write-docker-actions/pull/7)
+
+Step 13: [Fetch a cat fact](https://github.com/Zi-Tao/write-docker-actions/pull/7)
+
+Step 14: [Add Python dependencies](https://github.com/Zi-Tao/write-docker-actions/pull/7)
+
+Step 15: [Add the cat-fact `Dockerfile`](https://github.com/Zi-Tao/write-docker-actions/pull/7)
+
+Step 16: [Use the cat-fat action](https://github.com/Zi-Tao/write-docker-actions/pull/7)
+
+Step 17: [Get ready to purr](https://github.com/Zi-Tao/write-docker-actions/pull/7)
+
+Step 18: [Reference the issue-maker action](https://github.com/Zi-Tao/write-docker-actions/issues/8)
+
+Step 19: [Add dependencies for issue-maker action](https://github.com/Zi-Tao/write-docker-actions/pull/9)
+
+Step 20: [Create the issue-maker's action metadata](https://github.com/Zi-Tao/write-docker-actions/pull/9)
+
+Step 21: [Add the issue-maker action's source code](https://github.com/Zi-Tao/write-docker-actions/pull/9)
+
+Step 22: [Add the issue-maker action's `Dockerfile`](https://github.com/Zi-Tao/write-docker-actions/pull/9)
